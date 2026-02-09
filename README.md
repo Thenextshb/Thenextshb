@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/z2xaVRUmUS4AAAAd/gorilla-tag-rgb-monkey-rbg.gif" width="300">
+  <img src="gorilla-tag-rgb-monkey-rbg.gif" width="400">
 </p>
+
 <h1 align="center">Hello!</h1>
 
 <p align="center">
@@ -35,6 +36,10 @@ I making mods / I like hacking
 </p>
 
 ---
+<p align="center">
+  <img src="gorilla-tag-ground.gif" width="250" style="margin-right:10px;">
+  <img src="jet2-gorilla-tag.gif" width="250">
+</p>
 
 ## About Me
 - Age: 13  
