@@ -44,7 +44,7 @@ he/him
 ## About Me
 - Age: 13  
 - Main focus: Mods / Plugins / Games / Web  
-- Currently working on: **Earth Mechs**  
+- Currently working on: **FlingusVR**  
 - Favorite game: **Gorilla tag, minecraft**
 
 
@@ -63,6 +63,7 @@ he/him
 ---
 
 ## Projects
+- **FlingusVR** – New Game
 - **Earth Mechs** – New Game
 - **Gorillafy** – Song playing mod menu
 
