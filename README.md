@@ -32,10 +32,6 @@ he/him
 </p>
 
 ---
-<p align="center">
-  <img src="gorilla-tag-ground.gif" width="250" style="margin-right:10px;">
-  <img src="jet2-gorilla-tag.gif" width="250">
-</p>
 
 ## About Me
 - Age: 13  
