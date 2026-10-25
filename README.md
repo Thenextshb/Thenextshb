@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="gorilla-tag-rgb-monkey-rbg.gif" width="400">
-</p>
-
-<h1 align="center">Hello!</h1>
+<h1 align="center">Hi?</h1>
 
 <p align="center">
 I am <b>Thenextshb</b><br>
