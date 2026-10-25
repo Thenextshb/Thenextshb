@@ -57,7 +57,7 @@ he/him
 ## Projects
 - **FlingusVR** – New Game
 - **Earth Mechs** – New Game
-- **PebbleIDE** – Ide built off of Turbowarp adn Scratch
+- **PebbleIDE** – Ide built off of Turbowarp and Scratch
 
 ---
 
